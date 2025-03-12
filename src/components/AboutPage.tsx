@@ -14,7 +14,7 @@ import {
 
 const AboutPage = () => {
   return (
-    <div className="pt-32 pb-16">
+    <div className="pt-32">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-gray-50 to-white py-16">
         <div className="container mx-auto px-4">
